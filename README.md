@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ViniBorri
+- 👋 Hi, I’m Vinícius
 - 👀 I’m interested in business and techology
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on projects that help me improve my skills
